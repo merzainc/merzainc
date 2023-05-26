@@ -1,14 +1,14 @@
 ## Hey, I’m Believe 👋.
 
-JavaScript/React Engineer 💙 from [Zimbabwe 🇿🇼](https://twitter.com/merzadev).
+React, Laravel Engineer from [Zimbabwe 🇿🇼](https://twitter.com/merzadev).
 
 ![](https://github-readme-stats.vercel.app/api?username=merzainc&show_icons=true&count_private=true&bg_color=0D1117&border_radius=0&hide_title=true&text_color=FFF&icon_color=296ECA&)
 ---
 
 
-- 🌱 Professional **React, React Native, Laravel Engineer**
+- 🌱 **React, React Native, Laravel Engineer**
 
-- 📄 Experience [developer.merza.co.zw](https://developer.merza.co.zw)
+-  ↗️ Experience [developer.merza.co.zw](https://developer.merza.co.zw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
