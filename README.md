@@ -1,6 +1,10 @@
 <h1 align="center"> 👋 Hi I'm Believe</h1>
 <h3 align="center">A full stack developer from Zimbabwe, Harare</h3>
 
+![](https://github-readme-stats.vercel.app/api?username=merzainc&show_icons=true&count_private=true&bg_color=0D1117&border_radius=0&hide_title=true&text_color=FFF&icon_color=296ECA&)
+---
+
+
 - 🌱 I’m currently learning **Next.js, TypeScript, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [my projects](https://mataga.dev/projects)
